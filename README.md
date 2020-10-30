@@ -1,16 +1,13 @@
-### Hi there 👋
+# My name is Ali Kaif
+## Transforming the Future of Technology ![Transforming the Future of Technology ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**akaif95/akaif95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ali Kaif from Arizona. My primary work consists of Python programming, Web Design/Development, Cloud Computing and digital security. Slowly making a transition over to the  Cybersecurity industry. I really enjoy teaching and helping others learn, as well as drawing, reading and creating educational content
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akaif95) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AliKaif/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.cyberbytes.info/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobe.svg' alt='adobe' height='40'>](https://www.adobe.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@aliakaif)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Experience
+* Python, Ruby, HTML/CSS, JavaScript
+
+![Ali Kaif's github stats](https://github-readme-stats.vercel.app/api?username=akaif95&show_icons=true&theme=tokyonight)
